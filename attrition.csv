@@ -1,0 +1,26 @@
+Employee_ID,Name,Age,MonthlyIncome,JobSatisfaction,YearsAtCompany,WorkLifeBalance,Attrition
+101,John Doe,35,5000,3,5,3,No
+102,Sarah Lee,42,7000,4,10,4,No
+103,Mike Smith,28,4000,2,2,2,Yes
+104,Emily Davis,30,6000,3,3,3,No
+105,James Brown,45,8000,4,15,4,No
+106,Olivia Taylor,27,3500,2,1,2,Yes
+107,Robert Wilson,38,6500,3,8,3,No
+108,Sophia Martinez,33,5500,4,4,4,No
+109,William Anderson,29,4200,3,2,2,Yes
+110,Mia Thomas,50,9000,4,20,4,No
+111,Benjamin White,26,3700,2,1,1,Yes
+112,Charlotte Harris,31,4800,3,3,3,No
+113,Alexander Clark,37,7200,4,9,4,No
+114,Amelia Lewis,24,3200,2,1,2,Yes
+115,Henry Walker,41,7500,4,12,4,No
+116,Ella Young,29,4300,3,3,3,No
+117,Daniel Hall,36,6900,4,7,4,No
+118,Grace Allen,25,3400,2,1,1,Yes
+119,Samuel King,40,7800,4,11,4,No
+120,Chloe Wright,23,3100,1,0,2,Yes
+121,David Scott,39,7100,4,10,4,No
+122,Lily Green,32,5200,3,4,3,No
+123,Christopher Adams,27,4000,2,1,2,Yes
+124,Victoria Baker,34,5600,3,6,3,No
+125,Joseph Nelson,46,8500,4,18,4,No
